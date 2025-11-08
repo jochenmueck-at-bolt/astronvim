@@ -1,4 +1,3 @@
-
 -- Customize Mason
 
 ---@type LazySpec
@@ -21,7 +20,6 @@ return {
 
         -- install any other package
         "tree-sitter-cli",
-        "clangd",
         "clang-format",
         "bzl",
       },
