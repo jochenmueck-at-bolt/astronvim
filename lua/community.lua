@@ -11,7 +11,8 @@ return {
   { import = "astrocommunity.pack.cpp"},
   { import = "astrocommunity.pack.typescript"},
   { import = "astrocommunity.pack.python-ruff"},
-  { import = "astrocommunity.recipes.ai"},
+  { import = "astrocommunity.recipes.ai"}, 
+  { import = "astrocommunity.completion.copilot-vim-cmp"},
 
   -- import/override with your plugins folder
 }
